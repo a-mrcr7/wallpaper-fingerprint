@@ -4,7 +4,7 @@
 # ============================================================
 #
 # I was bored, so I made this little personal project to generate
-# the password for my professional locker from my workplace wallpaper.
+# the password for my professional locker from my desktop wallpaper.
 #
 # The wallpaper is not included in this project.
 # Put this script in the same folder as the image and select the
@@ -57,7 +57,7 @@ Write-Host "PROJECT NOTE" -ForegroundColor White
 Write-Host "------------------------------------------------------------" -ForegroundColor DarkCyan
 Write-Info "I was bored, so I made this little personal project."
 Write-Info "Its purpose is to generate the password for my"
-Write-Info "professional locker from my workplace wallpaper."
+Write-Info "professional locker from my desktop wallpaper."
 Write-Host ""
 Write-Info "The wallpaper is converted into a deterministic"
 Write-Info "four-digit fingerprint and represented as a SHA-256 hash."
