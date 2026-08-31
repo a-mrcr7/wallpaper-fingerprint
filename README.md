@@ -1,6 +1,6 @@
 # Professional Locker Password Generator
 
-**Personal PowerShell Project — v2.0**
+**Personal PowerShell Project**
 
 I was bored, so I made this little personal project to generate the
 password for my professional locker from my laptop wallpaper.
