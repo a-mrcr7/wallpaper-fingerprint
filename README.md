@@ -3,9 +3,9 @@
 **Personal PowerShell Project — v2.0**
 
 I was bored, so I made this little personal project to generate the
-password for my professional locker from my workplace wallpaper.
+password for my professional locker from my laptop wallpaper.
 
-The idea is to turn a designated workplace wallpaper into a
+The idea is to turn a designated laptop wallpaper into a
 deterministic four-digit value and then represent that value as a
 SHA-256 hash.
 
@@ -13,21 +13,21 @@ The wallpaper itself is deliberately **not included** in this project.
 
 ## How to use it
 
-Put `wallpaper-fingerprint_v2.ps1` in the same folder as the workplace
+Put `wallpaper-fingerprint.ps1` in the same folder as the workplace
 wallpaper.
 
 For example:
 
 ```text
 My Folder/
-├── wallpaper-fingerprint_v2.ps1
+├── wallpaper-fingerprint.ps1
 └── background.jpg
 ```
 
 Then run:
 
 ```powershell
-.\wallpaper-fingerprint_v2.ps1
+.\wallpaper-fingerprint.ps1
 ```
 
 The script automatically searches **the folder containing the script**
