@@ -67,7 +67,7 @@ The script:
 The intended process is:
 
 ```text
-workplace wallpaper
+laptop wallpaper
         ↓
 image fingerprint
         ↓
